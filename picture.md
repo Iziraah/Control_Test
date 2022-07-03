@@ -1,1 +1,1 @@
-![блок-схема](test/Untitled%20Diagram.jpg)
+![блок-схема](Untitled%20Diagram.jpg)
