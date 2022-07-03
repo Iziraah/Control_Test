@@ -5,3 +5,10 @@ Console.Write("Введите что угодно с клавиатуры, че�
 string[] inputarray = Console.ReadLine().Split();
 
 List<string> result = new List<string>();
+foreach(string item in inputarray)
+{
+    if (item.Length < 4)
+    {
+        result.Add(item);
+    }
+}
