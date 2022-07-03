@@ -3,3 +3,5 @@
 
 Console.Write("Введите что угодно с клавиатуры, через пробел  ");
 string[] inputarray = Console.ReadLine().Split();
+
+List<string> result = new List<string>();
