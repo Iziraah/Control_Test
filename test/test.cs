@@ -12,3 +12,4 @@ foreach(string item in inputarray)
         result.Add(item);
     }
 }
+Console.WriteLine(string.Join(" ", result));
